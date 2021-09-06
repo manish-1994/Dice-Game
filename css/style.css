@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Urbanist:ital,wght@1,900&display=swap');
+
+.container-fluid{
+    text-align: center;
+    padding: 50px 0;
+}
+
+body{
+    background-color: #716F81;
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+    color: #F2E1C1;
+}
+
+.col-lg-6{
+    text-align: center;
+    padding: 60px auto;
+}
+
+h3{
+    color: #F2E1C1;
+    font-family: 'Urbanist', sans-serif;
+    padding: 10px 0;
+}
+
+.address{
+    font-family: 'Pacifico', cursive;
+    color: #F2E1C1;
+    text-decoration: none;
+}
+
+.address:hover{
+    color:#F6AE99;
+    transition: 0.3s ease-in;
+}
+
+.btn{
+    font-family: 'Pacifico', cursive;
+
+}
